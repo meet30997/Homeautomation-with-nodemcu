@@ -8,7 +8,9 @@ An example of home automation with nodemcu using android app.
 + Works With Your Existing Router (Offline)
 + Shows Current Status in Android App.
 
-# Screenshot 
-![alt text](https://github.com/meet30997/Homeautomation-with-nodemcu/blob/master/Screenshot_20180703-105307_HomeAutomation.jpg "Logo Title Text 1")
+# Demo App
+
+
+
 
 
